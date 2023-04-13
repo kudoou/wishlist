@@ -1,0 +1,3 @@
+.igignore
+.env
+/venv
